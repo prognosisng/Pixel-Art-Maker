@@ -15,6 +15,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## This is the Link to my Pixel Art Maker project
+## Link to my Pixel Art Maker project
 
 Click [here](https://prognosisng.github.io/Pixel-Art-Maker/).
