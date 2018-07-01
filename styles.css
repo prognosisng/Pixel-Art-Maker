@@ -38,3 +38,16 @@ td {
 input[type=number] {
     width: 6em;
 }
+
+#button {
+    display: block;
+    padding: 10px 25px;
+    width: 110px;
+    margin: 30px auto;
+    border: .120rem solid transparent;
+    font-size: 15px;
+    text-transform: uppercase;
+    border-radius: .23rem;
+    color: #fff;
+    background-color: coral;
+}
